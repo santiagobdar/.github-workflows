@@ -2,7 +2,7 @@
 # Nombre de archivo: hw1.py (No cambiar el nombre de este archivo)
 # El repositorio donde esta tu HW1 es: github.com/unlu-edu-ar/homework-1-santiagobdar
 # Completa con tu nombre, apellido y DNI
-# Nombre y Apellido: Santiago Bdar
+# Nombre y Apellido: Santiago Ezequiel Bdar
 # DNI: 45738134
 ################################################################################################
 
